@@ -3,8 +3,8 @@ CYO
 
 CYO (Choose Your Own) is an extremely simple, but powerful, storytelling engine built with Angular.js.
 
-Updated Documentation Coming Soon
-============
+
+<a target="_new" href="http://danielstern.github.io/cyo/">Check Out the Project Page</a>
 
 Introduction
 ------------
@@ -13,11 +13,11 @@ CYO uses Angular directives to create rich storytelling experiences with an extr
 
 Getting Started with CYO
 --------------
-###Very Simple Way:
+### The Very Simple Way:
 - Clone this repository
-- Open `example1_thedarkcell`
+- Open an example you like
 - Delete every file in `story/` except `intro.html`
-- Start writing your own story, starting with intro.html
+- Start writing your own story, starting with `intro.html`
 
 ###More Detailed Instructions:
 
@@ -36,6 +36,14 @@ All you need to do to get started with CYO is require the module in your Angular
 ```
 
 Requiring the CYO module gives you access to all the directives necessary to make your own adventure. These modules are detailed below.
+
+<a target="_new" href="http://danielstern.github.io/cyo/">Full getting started details are available at the project page.</a>
+
+The Characters
+-----------
+*Also known as "The Directives", wherein an interactive adventure is created, and Javascript fumes about not being needed.*
+
+You can use these tools freely in your project to create your own interactive story adventure.
 
 ###Story
 The story tag initializes your story by pointing to your first chapter.
@@ -188,12 +196,102 @@ And, inside `story/the-eight-sided-room.html`
 </page>
 ```
 
+##Pages
+*Wherein a long story is broken into manageable pieces and loaded one at a time.*
+
+Your story is broken up into pages which are all represented by individual html files. The structure of your adventure might look like this
+
+```
+index.html
+story/
+  intro.html
+  go-to-school.html
+  stay-home-today.html
+```
+
+The markup of your typical page looks like this.
+
+```html
+<page>
+<p>
+	The floor creaks as you step into the house's massive foyer. Grimy paintings 
+	of gaunt and ghastly figures line the walls, and go all the way up to the 
+	ceiling. There is table in the middle of the room. 
+</p>
+<p>
+	"Looks like Sal already got this room pretty good," says Brad nervously.
+</p>
+<p>
+	"Looks like it."
+</p>
+<!-- The following paragraph will only appear if you got the necklace in 
+	chapter one -->
+<condition get-necklace>
+	<p>
+		The figures in the wall all seem old and tired. Rarely are they smiling. 
+		Many of the men have long mustaches. You notice someone familiar in one of 
+		the paintings.
+	</p>
+	<p>
+		<i>That's impossible.</i> Suddenly, you reach for the necklace in your 
+		pocket and pop it open. Sure enough. The woman is clearer in the picture. 
+		She is has blonde hair and a striking face. She is not smiling in the 
+		picture on the wall either. Below the picture you see the words <i>Eliza 
+		Bedford.</i>
+	</p>
+	<!-- Your character learns Eliza's name and this comes in handy later. This 
+	event never triggers if the condition it's inside isn't fulfilled. -->
+	<event learned-elizas-name></event>
+	<p>
+		"What are you looking at?" asks Brad.
+	</p>
+	<p>
+		"Nothing."
+	</p>
+</condition>
+<p>
+	The room has a dreary air of sadness about it. The wallpaper, purpled with 
+	time, peels from the walls. Engraved candlesticks stand guard in neatly 
+	ordered rows all around upper wall of the massive room. <i>Those look 
+	valuable. A wonder someone hasn't taken them yet.</i>
+</p>
+<p>
+	"Well, boys," says crazy Jake, rubbing his hands together. "Let's not get too 
+	comfortable."
+</p>
+<p>
+	"I'm going to look upstairs," says Brad. "Get a handful of jewels and get out 
+	of here."
+</p>
+<p>
+	You get a weird feeling in your stomach. You can't figure out what it is.
+</p>
+<!-- This page ends with two choices thereby allowing the story to go on
+ as a new page is loaded. -->
+<choice page='"go-with-brad"'>Go with Brad</choice>
+<choice page='"go-with-jake"'>Go with Jake</choice>
+</page>
+```
+
+The whole page needs to be within a `<page>` tag. Other than that, it is just normal HTML and can include pictures, Flash, angular directives and whatever.
+
+All pages are loaded at runtime when the user clicks a choice directive.
+
+Once you click a choice, all the other choices on the page disappear.
+
 
 Making Your Own
 ---------------
 
 Please use this tool to make your own adventures and share them with me. If you have any questions, or need a new feature to complete your latest epic, post it up here. Better yet, add the feature yourself and make a pull request. 
 
+### Made a Game with CYO?
+
+I'd be happy to link to it on the project page! Get in touch with me @danielsternband
+
 Happy adventuring!
+
+<a target="_new" href="http://danielstern.github.io/cyo/">Check Out the Project Page for More Examples</a>
+-----------
 
 *CYO was created by Daniel Stern*
