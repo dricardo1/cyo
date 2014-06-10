@@ -1,0 +1,295 @@
+[33mcommit f8bac23208bd5f0bd9acd0443774e8836d88b055[m
+Author: Don Ricardo JR <dricardo1@gmail.com>
+Date:   Mon Jun 9 23:44:46 2014 -0400
+
+    initial commits
+
+[33mcommit 88b88287aa5e9bbe8fb41f963b18e5230544c09e[m
+Author: Don Ricardo JR <dricardo1@gmail.com>
+Date:   Mon Jun 9 15:43:03 2014 -0400
+
+    Survivalist game
+
+[33mcommit 2641955fbe55fc232ce6b76152bc350fd63e8ffb[m
+Author: Don Ricardo JR <dricardo1@gmail.com>
+Date:   Mon Jun 9 15:38:05 2014 -0400
+
+    SFA trial run
+    
+    Star Fleet Academy story- Trial Run
+
+[33mcommit fcfadae2dae53bf0f2187df945c13b25ad00c456[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Sun May 4 21:52:36 2014 -0400
+
+    added info to readme regarding generator
+
+[33mcommit a56abcfb9bb753d942f07d3af6c1c1eb2eb206bf[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 18:51:05 2014 -0400
+
+    fixed typo
+
+[33mcommit b83245d9ea54e79ed72349761bb104e9190f3b5f[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 18:49:00 2014 -0400
+
+    fixed stuff
+
+[33mcommit a82928dd6c51cef6e591e6d1be6b0087aa113788[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 18:46:46 2014 -0400
+
+    updated page
+
+[33mcommit 77227b0a8a90af30e09dd8af749a825393930661[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 17:59:16 2014 -0400
+
+    updating project page
+
+[33mcommit c0895c27d7664da4b25d0121bd1cb032ca3dd6f2[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 17:29:44 2014 -0400
+
+    projectp age coming along
+
+[33mcommit ff541888746249e539a014b29cedd8581ae8bcf4[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 16:36:46 2014 -0400
+
+    improved page structure
+
+[33mcommit fc8d99cd110315834624fc85b6d0f588b3d80937[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 16:34:50 2014 -0400
+
+    improved page structure
+
+[33mcommit ca69264d711f2be01d1727f5437912baa8949f56[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 16:33:50 2014 -0400
+
+    improved page structure
+
+[33mcommit 604f79f7a00423869e3cff48d6a933c3447e59ba[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 16:30:21 2014 -0400
+
+    improved page structure
+
+[33mcommit bcddecf2431119593c29213cff1e5cc3a4d06919[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 16:29:40 2014 -0400
+
+    improved page structure
+
+[33mcommit 3b6625f8bf3134ad81262bf08a66b352ce4141b0[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 16:06:16 2014 -0400
+
+    improved page structure
+
+[33mcommit aa1779d1b94e5bd651b7b0751ff2bc1c6d81a446[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 16:02:09 2014 -0400
+
+    improved link
+
+[33mcommit 96b66a9f49e880aba42c8e52fa71626c56bcaada[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 16:00:53 2014 -0400
+
+    improved link
+
+[33mcommit fa9c9e5b5427a6e277a5fac9f68f94184094c273[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 16:00:40 2014 -0400
+
+    added link to project page
+
+[33mcommit e45a152664fee8ceb64d0c938c4eb84091d86bab[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 15:57:20 2014 -0400
+
+    added other example
+
+[33mcommit 837fde2b7239c029b148ddab2f121e4d4005e524[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 15:48:45 2014 -0400
+
+    fixed some readme stuff
+
+[33mcommit df0b7b12145362a7154224dfe1214a493803ec50[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 15:44:43 2014 -0400
+
+    removed deleted files
+
+[33mcommit 1a16fd1809b04171e415ebd439a386578e0fb363[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Tue Mar 18 15:43:15 2014 -0400
+
+    updated readme
+
+[33mcommit a0c014e4698cdd4149f016aa136f5be23efb9554[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Tue Mar 18 15:02:56 2014 -0400
+
+    refactoring
+
+[33mcommit 8db2eee63847d27ee00bec7ad41ab6f4637a2c22[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Tue Mar 18 11:59:50 2014 -0400
+
+    created module for cyo
+
+[33mcommit c1dd17422d09298a5e7fdc4244d0b4bc5c69253d[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Tue Mar 18 11:37:25 2014 -0400
+
+    refactoring code
+
+[33mcommit 20fa12fee5de6ef61ba3cc8c79de2dbc220efd2e[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Mon Dec 23 18:39:23 2013 -0500
+
+    some fixes, beta version
+
+[33mcommit 62bf56c3467b09bb5a496dfdfdb9d74026dcf1e6[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Mon Dec 23 17:46:54 2013 -0500
+
+    finished story!!
+
+[33mcommit 4b1c11e855d5284595761a7b797d16817ffb2a16[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Sun Dec 22 17:58:47 2013 -0500
+
+    added mroe story
+
+[33mcommit 0c6f951ab309f8e0013c407093574779d176fc4c[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Sun Dec 22 14:25:23 2013 -0500
+
+    going good
+
+[33mcommit 826bb655e6aa5c57dc1194258fc13f7e154b8a32[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Sun Dec 22 10:17:48 2013 -0500
+
+    save feature fully functional for testing!
+
+[33mcommit eb3de5d2515e6933eb1fcd7c9e8b6f71c4e0c3c4[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Sun Dec 22 09:08:02 2013 -0500
+
+    added save game feature!
+
+[33mcommit 7f94a1f3144f24dc7bab8efb2b9ab982eae47d92[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Mon Oct 21 11:24:01 2013 -0400
+
+    added-less, ironically works worse on firefox now
+
+[33mcommit 31e238a041048e29eeb725543d661dfa2b2987dc[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Mon Oct 21 10:42:09 2013 -0400
+
+    less workin
+
+[33mcommit cf94542ee30a482060f4bc2e83a325b945b55cc2[m
+Author: unknown <daniel@danielstern.ca>
+Date:   Mon Oct 21 10:17:12 2013 -0400
+
+    added visualizer
+
+[33mcommit b6e73b4f39681e7e91ab24d2332f03e1e041ac09[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Fri Oct 18 15:41:57 2013 -0400
+
+    new awesome chapters
+
+[33mcommit 54a6419c33c4b164c5beb4f3d821bd4ffeaf7bc4[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Fri Oct 18 13:55:37 2013 -0400
+
+    more stories
+
+[33mcommit 8fcf1c8f06bb4cacc911cfd83479b19a0f31ba21[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Thu Oct 17 22:47:13 2013 -0400
+
+    awesomeness
+
+[33mcommit 83532358792418a1af8fb25824f97589bac55ae2[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Thu Oct 17 22:42:25 2013 -0400
+
+    turned delay into handy reusable directive
+
+[33mcommit 156daf3ea4a4a72cc2812f3b6cac53036a6c2a2e[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Thu Oct 17 22:26:08 2013 -0400
+
+    added time-delay-component, before turning into directive
+
+[33mcommit d1468ed8fb0c60675b15fd021d505d90f5f56511[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Thu Oct 17 22:06:17 2013 -0400
+
+    tweak to file
+
+[33mcommit 001d131697c033f1afec50f53a3098c23e0ad336[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Thu Oct 17 22:04:57 2013 -0400
+
+    thought visualizer is... stupid?
+
+[33mcommit 30df3b0ac4be1b0893029002d5694963ced6130d[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Thu Oct 17 21:41:46 2013 -0400
+
+    css powered svg blurs... yes please?
+
+[33mcommit a3cc50da7f39e611fd0e6c6a53098c8bfc0a172a[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Thu Oct 17 21:02:46 2013 -0400
+
+    added thought box, adding resposne to hover
+
+[33mcommit 82956b11e64871a8ace4b742df9e1857cc2af6b8[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Thu Oct 17 20:47:29 2013 -0400
+
+    got d3 workin
+
+[33mcommit adddb5ed1944d570541bbcf8c21374f1c418418b[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Thu Oct 17 16:02:43 2013 -0400
+
+    working on visualizer, got data
+
+[33mcommit fcc1b7d2c21e633a1f328b44c3a2222e0f517d75[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Thu Oct 17 15:38:21 2013 -0400
+
+    removed music from repo
+
+[33mcommit 88638aa456ffbf4329135f8cc25597511408cd4a[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Wed Oct 16 11:19:55 2013 -0400
+
+    added styling to frame
+
+[33mcommit c166b7c082f623dd9863f23700727a76f2ede24d[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Wed Oct 16 11:14:27 2013 -0400
+
+    added more visual elements.. weve created a monster
+
+[33mcommit 03df56e5551a001deeec693ca3cb81ce72a42cbb[m
+Author: daniel stern <daniel@danielstern.ca>
+Date:   Wed Oct 16 10:06:56 2013 -0400
+
+ 
